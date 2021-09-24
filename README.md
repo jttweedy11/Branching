@@ -10,3 +10,5 @@
 ### Branchinig Commands
 * 'git branch' - list local branches, show which branch you are on.
 * 'git branch -M branchName' - Change branch name.
+* 'git branch newBranch' - create new branches
+* 'git checkout branchName' - switch branches
