@@ -12,3 +12,9 @@
 * 'git branch -M branchName' - Change branch name.
 * 'git branch newBranch' - create new branches
 * 'git checkout branchName' - switch branches
+
+
+### Remote Commands
+* ' git remote add origin someRemoteRepoUrl' - link local repo with remote 'someRemoteRepoUrl'
+* 'git push origin main' - push local commits to Remote
+* 'git push origin branchName' - push to remote branch 'branchName'
